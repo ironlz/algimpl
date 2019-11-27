@@ -1,5 +1,6 @@
 package lz.utils.sort;
 
+import lz.utils.sort.SortUtil;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

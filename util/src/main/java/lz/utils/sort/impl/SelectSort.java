@@ -1,7 +1,5 @@
 package lz.utils.sort.impl;
 
-import lz.utils.sort.SortUtil;
-
 import java.lang.reflect.Array;
 
 import static lz.utils.sort.impl.SortComparator.compare;
